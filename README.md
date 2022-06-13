@@ -1,2 +1,20 @@
-# 2.hafta.carsamba.odevi
-  //ÖDEV // kullanıcı tarafından girilen bir kelimenin //S-1) Kaç karakterlidir ? //S-2) boşluklar alınarak Kaç karakterlidir ? //S-3) bütün kelimeyi küçük harfle göstermek ? //S-4) bütün kelimeyi büyük harfle göstermek ? //S-5) ilk harf nedir  ? //S-6) girdiğiniz kelime java ile başlıyor mu  ? //S-7) girdiğiniz kelimenin sonuna "-ben js öğreniyorum"   ? //S-8) girdiğiniz 0 ile 4 arasındaki indexi ekranda gösterin   ? //S-9) Kullanıcıdan alınan başka bir kelimeyle birinci olan kelimeyle yer değiştirmek ? https://github.com/hamitmizrak/Turkcell_FrontEnd
+# 2.hafta çarşamba ödevi (01.06.2022)
+  1) runtime error, compiler error, syntax error
+  2) Proje ödevi, kullanıcı tarafından girilen bir kelimenin;
+ - Kaç karakterlidir?
+ - Boşluklar alınarak Kaç karakterlidir?
+ - Bütün kelimeyi küçük harfle göstermek?
+ - Bütün kelimeyi büyük harfle göstermek?
+ - İlk harf nedir?
+ - Girdiğiniz kelime java ile başlıyor mu?
+ - Girdiğiniz kelimenin sonuna "-ben js öğreniyorum"?
+ - Girdiğiniz 0 ile 4 arasındaki indexi ekranda gösterin?
+ - Kullanıcıdan alınan başka bir kelimeyle birinci olan kelimeyle yer değiştirmek?
+ 3) Proje ödevi, kullanıcıda tarafından aldığımız 2 tane sayının;
+   - Bu sayılardan en küçüğü nedir?
+   - Bu sayılardan en büyüğü nedir?
+   - Bu sayılardan en büyüğü karekökü nedir?
+   - Bu sayılardan en büyüğü karekökünün üste yuvarlıyalım nedir?
+   - Bu sayılardan en küçüğü mutlak nedir?
+   - Bu sayılardan en küçüğü alt taban en büyüğü üst taban şeklinde üstünü alalım?
+
